@@ -1,5 +1,3 @@
-import keyring
-
 from datetime import datetime
 from alpaca.data.historical import CryptoHistoricalDataClient
 from alpaca.data.requests import CryptoBarsRequest
